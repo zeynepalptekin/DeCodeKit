@@ -1,0 +1,24 @@
+package com.google.android.gms.internal.ads;
+
+import android.view.View;
+
+/* loaded from: classes.dex */
+public final class zi0 implements pe2<View> {
+
+    /* renamed from: a, reason: collision with root package name */
+    private final hi0 f6267a;
+
+    private zi0(hi0 hi0Var) {
+        this.f6267a = hi0Var;
+    }
+
+    public static zi0 a(hi0 hi0Var) {
+        return new zi0(hi0Var);
+    }
+
+    @Override // com.google.android.gms.internal.ads.ze2
+    @androidx.annotation.i0
+    public final /* synthetic */ Object get() {
+        return this.f6267a.c();
+    }
+}

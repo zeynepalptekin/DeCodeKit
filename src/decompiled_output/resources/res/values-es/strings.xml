@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AiutoAltro">Ajustes</string>
+    <string name="AlertNO">NO</string>
+    <string name="AlertSI">SI</string>
+    <string name="AlertTitle">CalculadoraFácil sugiere:</string>
+    <string name="Classico">Classic</string>
+    <string name="CloseFaq">Cerrar</string>
+    <string name="Costoperpax_list_tip">Cuenta por persona\n</string>
+    <string name="DELETE_ALL">ELIMINAR TODO</string>
+    <string name="DeleteAllMemory">¿Está seguro de que desea eliminar todos los cálculos guardados?</string>
+    <string name="DeleteListShopping">¿ Estás seguro de borrar esta lista para crear una nueva ?</string>
+    <string name="DeleteitememoryShopping">¿ Estás seguro de borrar todas las listas guardadas ?</string>
+    <string name="DivisionePerZero">CalculadoraFácil sugiere:\nno es posible dividir por cero!</string>
+    <string name="Elegante">Elegant</string>
+    <string name="ErrorNumbers">¿la expresión es correcta?\nCalculadoraFácil sugiere:\n[ verificar los números ]</string>
+    <string name="ErrorOperators">¿la expresión es correcta?\nCalculadoraFácil sugiere:\n[ verificar los operadores ]</string>
+    <string name="Exit">Salir</string>
+    <string name="FaqTitle">Sugerencias de uso</string>
+    <string name="Help">Recomendación de uso</string>
+    <string name="InformationResponsability">CalculadoraFácil</string>
+    <string name="Light">Light</string>
+    <string name="Minimal">Minimal</string>
+    <string name="Neon">Dark</string>
+    <string name="Num_decbottone">Número de decimales (Calculadora):</string>
+    <string name="ParentesiSbilanciate">¿la expresión es correcta?\nCalculadoraFácil sugiere:\n[ verificar las paréntesis ]</string>
+    <string name="PerPrezzoFinale">Precio Final =</string>
+    <string name="PerPrezzoOriginale">Precio inicial =</string>
+    <string name="PerRisparmiato">Ahorro =</string>
+    <string name="PerSconto">Descuento (%) =</string>
+    <string name="PerSconto2">+Descuento (%) =</string>
+    <string name="PrezzoFinaleSconto">Precio Final\n</string>
+    <string name="PrezzoOriginaleSconto">Precio inicial\n</string>
+    <string name="PrezzoOriginaleScontoPiuiva">Precio inicial (IVA inc.)\n</string>
+    <string name="PrezzoOriginaleTip">Cuenta\n</string>
+    <string name="Prezzointermedio">Precio intermedio\n</string>
+    <string name="RateAPP">Valorar CalculadoraFácil</string>
+    <string name="RateAPPmenu">Valorar</string>
+    <string name="ResponsabilityMessage">El desarrollador de CalculadoraFácil no garantiza la exactitud o la fiabilidad de los resultados proporcionados por la aplicación CalculadoraFácil. Por todo lo que antecede, el desarrollador NO es responsable de posibles daños directos y/o indirectos que podrían ser causados por los resultados proporcionados por la aplicación CalculadoraFácil.</string>
+    <string name="RisparmiatoSconto">Ahorro\n</string>
+    <string name="RisultatoInfinito">Resultado muy grande para mostrar</string>
+    <string name="Sconto">Descuento</string>
+    <string name="ScontoVAT">IVA</string>
+    <string name="ScreenON">Pantalla siempre activa</string>
+    <string name="ShareAPP">Compartir CalculadoraFácil</string>
+    <string name="ShareAPPmenu">Compartir</string>
+    <string name="Suggerimento_calcolo_iva">Sugerencia:</string>
+    <string name="Suggerimento_calcolo_iva_messaggio">Mantener pulsado para insertar el IVA preferido.</string>
+    <string name="Suggerimento_calcolo_sconto_messaggio">Mantener pulsado para insertar el descuento preferido.</string>
+    <string name="Suggerimento_calcolo_tip_messaggio">Mantener pulsado para insertar la propina preferida.</string>
+    <string name="TITLEconverter">Convertidor Unidades</string>
+    <string name="Tab1">LONGITUD</string>
+    <string name="Tab10">ENERGÍA</string>
+    <string name="Tab11">VELOCIDAD</string>
+    <string name="Tab12">TIEMPO</string>
+    <string name="Tab13">ÁNGULO</string>
+    <string name="Tab14">DATOS</string>
+    <string name="Tab15">COMBUSTIBLE</string>
+    <string name="Tab2">ÁREA</string>
+    <string name="Tab3">VOLUMEN</string>
+    <string name="Tab4">MASA</string>
+    <string name="Tab5">DENSIDAD</string>
+    <string name="Tab6">TEMPERATURA</string>
+    <string name="Tab7">POTENCIA</string>
+    <string name="Tab8">PRESIÓN</string>
+    <string name="Tab9">FUERZA</string>
+    <string name="Temi">Temas</string>
+    <string name="Testo_tutorial" formatted="false">\n- Para activar la pantalla Descuento mantener pulsado el botón %.\n\n- Para volver a la pantalla Calculadora mantener pulsado el botón %.\n\n- Para mostrar las funciones cientifícas: deslizar el dedo por la pantalla hacia la izquierda.\n\n- Se puede modificar la notación predefinida en la sección ajustes.</string>
+    <string name="Testo_tutorial_iva">- Presionar el botón ..% para configurar el valor del IVA preferido.\n\n- Presionar el botón CALC para usar el cuadro de la Calculadora.\n\n- Para más informaciones utilizar la sección del menú ayuda/más.</string>
+    <string name="Titolo_tutorial">Bienvenido: Sugerencias para empezar</string>
+    <string name="Vibrazione">Vibración</string>
+    <string name="abc_action_bar_home_description">Ir a inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Suprimir</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Ocultar</string>
+    <string name="addIVaPerSconto">Casilla IVA</string>
+    <string name="addSconto2">Casilla descuento extra</string>
+    <string name="alertlistsaved">Lista guardada</string>
+    <string name="app_name">CalculadoraFácil</string>
+    <string name="app_nameicons">Calculadora Fácil</string>
+    <string name="articolirimanenti">Artículos restantes →</string>
+    <string name="bottoneNotazione">Notación</string>
+    <string name="bottone_acquista">comprar</string>
+    <string name="bottone_prova">prueba gratis</string>
+    <string name="calcoloIVA">Calculadora IVA</string>
+    <string name="calcolo_iva">Importe IVA =</string>
+    <string name="calcolo_iva_messaggio">Insertar el IVA preferido:</string>
+    <string name="calcolo_iva_messaggio_fatto">Hecho</string>
+    <string name="calcolo_iva_messaggio_indietro">Atrás</string>
+    <string name="calcolo_sconto_messaggio">Insertar el descuento preferido:</string>
+    <string name="calcolo_tip_messaggio">Insertar la propina preferida:</string>
+    <string name="calcoloprotetto">Calculo protegido</string>
+    <string name="colonna1">Artículo</string>
+    <string name="colonna2">Precio unitario</string>
+    <string name="colonna3">Qt.</string>
+    <string name="colorOperatori">Operadores aritmeticos colorados</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="dettaglicalcolo">Detalles cálculo descuento</string>
+    <string name="dettaglicalcolotip">Detalles cálculo de la propina</string>
+    <string name="dialog1">Qt. =</string>
+    <string name="dialog2">Precio =</string>
+    <string name="dialog3">Tot. =</string>
+    <string name="display_incorporo_selezionato">La pantalla Calcular IVA ya se ha seleccionado</string>
+    <string name="display_scorporo_selezionato">La pantalla Separar IVA ya se ha seleccionado</string>
+    <string name="doubleclick">Pulse otra vez para salir</string>
+    <string name="downloadApp">Descargar la aplicación CalculadoraFácil:</string>
+    <string name="errorSEZIONEsconto">Insertas el precio y el descuento</string>
+    <string name="errorSEZIONEtip">Insertas cuenta y número de personas</string>
+    <string name="errorTemperaturaFAR">La temperatura posible más baja en naturaleza es -459.67 °F</string>
+    <string name="errorTemperaturaGRADI">La temperatura posible más baja en naturaleza es -273.15 °C</string>
+    <string name="errorTemperaturaKELVIN">La temperatura posible más baja en naturaleza es 0 K</string>
+    <string name="errorTemperaturaRAN">La temperatura posible más baja en naturaleza es 0 °R</string>
+    <string name="error_formato_nonvalido">Modelo no válido</string>
+    <string name="error_position_cursor">CalculadoraFácil sugiere:\nOperación no válida\n[comprobar la posición del cursor]</string>
+    <string name="eu_consent_age">[Aceptando, estás confirmando que tienes más de 16 años]</string>
+    <string name="eu_consent_change_setting">Puede cambiar esta configuración en cualquier momento en la ventana Ajustes.</string>
+    <string name="eu_consent_no">No, muestra anuncios irrelevantes</string>
+    <string name="eu_consent_question">¿ Permite a Google de utilizar su datos sobre usted para mostrar anuncios personalizados ?</string>
+    <string name="eu_consent_text">¡Hola!\nUsamos Google AdMob para mostrar anuncios. Los anuncios de Google sustienen nuestro trabajo y nos permite un mayor desarrollo de esta aplicación. De acuerdo con el nuevo General Data Protection Regulation (GDPR) necesitamos vuestra autorización para publicar anuncios personalizados para usted.</string>
+    <string name="eu_consent_yes">Si, sigue mostrando anuncios relevantes</string>
+    <string name="eu_info">Analytics: (For more info read our privacy policy)\nOur app uses analytics services to collect anonymized user behavior data to improve user experience and fix bugs. The data collected by the services may include usage data and device identifiers.\n\nAdvertising: (For more info read our privacy policy)\nWe use Google AdMob to show ads.If you consent to be served with personalized ads,these ads may be based on your personal data and behavior to make them more relevant to you. The data colleceted by partners may include cookies, unique device identifiers and usage data.\nThe privacy policy of Google and its partners are available at the following address:</string>
+    <string name="euconset_versionpro_button">Versión PRO ( sin publicidad )</string>
+    <string name="goToCalculator">Calculadora</string>
+    <string name="google_partners">Google y sus socios:</string>
+    <string name="gotoSconto">Calculadora Descuento</string>
+    <string name="gotocalcoloIVA">Calculadora IVA</string>
+    <string name="gotoconverter">Convertidor Unidades</string>
+    <string name="iconmemory_cb">Mostrar icono de memoria</string>
+    <string name="imponibile">Importe neto =</string>
+    <string name="incorpora_iva">Calcular IVA</string>
+    <string name="itemlist">Artículo Nuevo</string>
+    <string name="itemsenzanome">sin nombre</string>
+    <string name="iva_percentuale">IVA (%) =</string>
+    <string name="learn_more">Aprenda cómo se usan sus datos</string>
+    <string name="limitation">Limitación de Responsabilidad</string>
+    <string name="listaprotetta">Lista protegida</string>
+    <string name="listasenzanome">Lista sin nombre</string>
+    <string name="listscontobotton">Info</string>
+    <string name="max_number">Solo 15 números están permisos</string>
+    <string name="max_number_decimal">Solo 8 números decimales están permisos</string>
+    <string name="menuTospesa">Calculador de compra</string>
+    <string name="menu_versionepro">Versión PRO</string>
+    <string name="menugift">Eliminar anuncios</string>
+    <string name="menutip">Calculador de Propina</string>
+    <string name="message_video_premio">¿Te gustaría probar la versión PRO gratis por un día?\n\nMira el video hasta el final.</string>
+    <string name="message_video_premioOld">Mira el video hasta el final para eliminar gratuitamente los anuncios de esta sección para 3 días.</string>
+    <string name="moresconto">⋮</string>
+    <string name="no_grazie">No, gracias</string>
+    <string name="nocalcoliprotetti">No hay cálculos protegidos</string>
+    <string name="nolisteprotette">No hay listas protegidas</string>
+    <string name="opencalculatorfirst">Calculadora de inicio</string>
+    <string name="opencalculatorscelta">Última Calculadora usada</string>
+    <string name="opencalculatorscelta2">CalculadoraFácil</string>
+    <string name="opencalculatorscelta3">Calculadora IVA</string>
+    <string name="opzionePRO_Sconto">Esta es una opción disponible en la versión PRO.\n¿Te gustaría probar la versión PRO gratis por un día?\n\nMira el video hasta el final.</string>
+    <string name="opzionePRO_Spesa">✅¡No olvides nada más en el supermercado!\nFunción Sigue Lista disponible en la versión PRO.\n\n¿Te gustaría probar la versión PRO gratis por un día?\n\nMira el video hasta el final.</string>
+    <string name="overflow_result">Resultado demasiado grande para este cálculo.\nEl resultado se establece de acuerdo con el máximo permitido.</string>
+    <string name="premio">Premio: los anuncios, en esta sección, se eliminarán por 3 días</string>
+    <string name="premioPRO">Premio: Versión PRO (1 día)</string>
+    <string name="privacyNO">Non-Personalized ads will be shown.\nHowever, the app does still use cookies or mobile ad identifiers for preventing ad fraud and abuse\n[You can change this setting anytime in the settings section.]\n\nWe use analytics services to collect anonymized user behavior data to improve user experience and fix bugs.These tools automatically collect certain types of information. The details are written in our Privacy Policy.\n\nBy proceeding, agree to the our Privacy Policy:</string>
+    <string name="privacyNOsetting">Non-Personalized ads will be shown.\nHowever, the app does still use cookies or mobile ad identifiers for preventing ad fraud and abuse\n[You can change this setting anytime in the settings section.]\n\nWe remember you we use analytics services to collect anonymized user behavior data to improve user experience and fix bugs.These tools automatically collect certain types of information. The details are written in our Privacy Policy:</string>
+    <string name="privacyYES">Personalized ads will be shown.\n[You can change this setting anytime in the settings section.]\n\nWe use analytics services to collect anonymized user behavior data to improve user experience and fix bugs.These tools automatically collect certain types of information. The details are written in our Privacy Policy.\n\nBy proceeding, agree to the our Privacy Policy:</string>
+    <string name="privacyYESsetting">Personalized ads will be shown.\n[You can change this setting anytime in the settings section.]\n\nWe remember you we use analytics services to collect anonymized user behavior data to improve user experience and fix bugs.These tools automatically collect certain types of information. The details are written in our Privacy Policy:</string>
+    <string name="privacynoteurope">By proceeding, agree to the our Privacy Policy:</string>
+    <string name="rate">Valorar Calculadora Fácil</string>
+    <string name="richiesta_valutazione">¡Hola!\nSi te gusta usar CalculadoraFácil, ¿Te importaría tomar un momento para calificarla?\n¡Gracias por tu apoyo!</string>
+    <string name="ricorda_dopo">Recuerda más tarde</string>
+    <string name="ricorda_setting">Recuerda el último cálculo (Calculadora)</string>
+    <string name="risp1" formatted="false">Ejemplo:\npara calcular el 25% de 80 (=20)\n\nEscribir: 80 x 25%\n\n o: 25% x 80</string>
+    <string name="risp10">Clicar en el icono de la papelera de reciclaje que está bajo el cálculo memorizado</string>
+    <string name="risp11">Clicar en el botón notación de esta sección para mostrar las diferentes opciones</string>
+    <string name="risp12">Insertar el Importe Neto (sin IVA) y el valor del IVA para calcular:\n\n- Importe Bruto (con IVA)\n- Importe IVA</string>
+    <string name="risp13">Insertar el Importe Bruto (con IVA) y el valor del IVA para calcular:\n\n- Importe Neto (sin IVA)\n- Importe IVA</string>
+    <string name="risp14">Presionar el botón CALC para activar el cuadro de la Calculadora.\n\nPara insertar el cálculo dentro de la casilla Importe Neto ( o Bruto ) pressar el botón =</string>
+    <string name="risp15">Mantener pulsado el botón ..%. Utiliza la barra para configurar el valor del IVA preferido y clica guarda.</string>
+    <string name="risp2">Applicar una larga presión en el botón %</string>
+    <string name="risp3">Applicar una larga presión en el botón %</string>
+    <string name="risp4">Applicar una larga presión en el botón ( )</string>
+    <string name="risp5">Deslizar el dedo por la pantalla hacia la izquierda</string>
+    <string name="risp6">Clicar en el botón =</string>
+    <string name="risp7">Deslizar el dedo por la pantalla hacia la derecha</string>
+    <string name="risp8">Clicar en el icono + que está bajo el cálculo memorizado</string>
+    <string name="risp9">Clicar en el icono central que está bajo el cálculo memorizado</string>
+    <string name="row1">Nuevo artículo</string>
+    <string name="row2">Precio unitario</string>
+    <string name="row3">Qt. 1</string>
+    <string name="s1">Guardar imagen</string>
+    <string name="s2">¿Permitir que el anuncio almacene imágenes en la galería de imágenes?</string>
+    <string name="s3">Aceptar</string>
+    <string name="s4">Rechazar</string>
+    <string name="s5">Crear evento de calendario</string>
+    <string name="s6">¿Permitir que el anuncio cree un evento de calendario?</string>
+    <string name="s7">Anuncio de prueba</string>
+    <string name="sHaresconto">Compartir</string>
+    <string name="salvasceltalaunchercalculator">Guarda</string>
+    <string name="saveprecedenteListShopping">¿ Quieres guardar la lista antecedente ?</string>
+    <string name="scorpora_iva">Separar IVA</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stile_setting">Estilo Clásico</string>
+    <string name="sug1">Crea la lista (con los artículos insertados) a seguir al supermercado</string>
+    <string name="sug10">Crea la lista (con los artículos insertados) a seguir al supermercado</string>
+    <string name="sug11">Protege la lista seleccionada</string>
+    <string name="sug12">Clica el botón arriba (Qt.) para cambiar el tipo de cantidad</string>
+    <string name="sug2">Guarda la lista</string>
+    <string name="sug3">Añade un artículo nuevo a la lista</string>
+    <string name="sug4">Elimina un artículo de la lista</string>
+    <string name="sug5">Elimina lista</string>
+    <string name="sug6">Para mostrar la memoria deslice el dedo horizontalmente de izquierda a derecha</string>
+    <string name="sug7">Elimina lista seleccionada</string>
+    <string name="sug8">Comparte lista seleccionada</string>
+    <string name="sug9">Editar lista seleccionada</string>
+    <string name="suggerimentimenu">Ayudas</string>
+    <string name="sugtit1">Pantalla principal</string>
+    <string name="sugtit2">Memoria</string>
+    <string name="sugtit3">Ventana inserción</string>
+    <string name="tasto_accetto_privacy">Yes, I Agree</string>
+    <string name="taxtip">IVA (%) =</string>
+    <string name="taxtip_list">IVA</string>
+    <string name="testo_bottone_tutorial">OK</string>
+    <string name="testo_finestra_acquisto">✅ La versión PRO no tiene ninguna publicidad. Además, se puede disfrutar de todas las funcionalidad de esta aplicación con una pantalla más grande.\n\n✅ Si te gusta Calculadora Fácil, con la compra permites el desarrollo y la mejora continua de la aplicación con actualizaciones constantes.</string>
+    <string name="textShare">Calculado con la aplicación: CalculadoraFácil\nhttps://play.google.com/store/apps/details?id=com.gp7.easycalculator</string>
+    <string name="tip_costopax">Cuenta/persona =</string>
+    <string name="tip_importo">Cuenta =</string>
+    <string name="tip_importo_tot">Cuenta final =</string>
+    <string name="tip_importo_tot_list">Cuenta final\n</string>
+    <string name="tip_mancia">Propina (%) =</string>
+    <string name="tip_mancia_list">Importe de la propina\n</string>
+    <string name="tip_mancia_list2">Propina</string>
+    <string name="tip_more_iva">Excluir el IVA del cálculo de la propina</string>
+    <string name="tip_more_prezzofinale">Casilla cuenta final</string>
+    <string name="tip_npersons_list">N° personas</string>
+    <string name="tip_numero_pax">N° personas =</string>
+    <string name="titleListaHint">Nombre Lista</string>
+    <string name="titleSconto">Calculadora Descuento</string>
+    <string name="title_activity_calcolo_iv">Calculadora IVA</string>
+    <string name="title_activity_settings">CalculadoraFácil</string>
+    <string name="title_info_ads">CalculadoraFácil\n(EU GDPR)</string>
+    <string name="title_info_botton">Info/opción publicidad</string>
+    <string name="titolo1sezsetting">Ajustes</string>
+    <string name="titolo2sezsetting">Otros</string>
+    <string name="titoloAGGIUNIG">Incluyes:</string>
+    <string name="titolo_finestra_acquisto">Calculadora Fácil PRO</string>
+    <string name="titoloalertdialogSceltaCalcolatrice">Elija su Calculadora de inicio</string>
+    <string name="titoloalertdialogSceltaNotazione">Elija su notación preferida</string>
+    <string name="titoloalertprivacy">Privacy Policy</string>
+    <string name="toast_tip_not_dividebyzero">No es posible dividir por cero personas</string>
+    <string name="totale_incluso_iva">Importe bruto =</string>
+    <string name="totalimain1">Tot. artículos:</string>
+    <string name="totalimain2">Tot. precio:</string>
+    <string name="unitaFinale">A :</string>
+    <string name="unitaIniziale">De :</string>
+    <string name="video_non_disponibile">No disponible en este momento</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <path
+        android:fillColor="@color/BIANCO"
+        android:pathData="M232,36V232l-28,-28.79L176,232l-28,-28.79L120,232 92,203.79 64,232V36A12,12 0,0 1,76 24H220A12,12 0,0 1,232 36Z"/>
+    <path
+        android:fillColor="@color/BIANCO"
+        android:pathData="M220.5,36V205.5L204,187.85l-28,28.79 -28,-28.79 -28,28.79L92,188.43 64,216.64V36A12,12 0,0 1,76 24H208.5A12,12 0,0 1,220.5 36Z"/>
+    <path
+        android:fillColor="@color/NERO"
+        android:pathData="M232,234a2,2 0,0 1,-1.43 -0.61L204,206.08l-26.57,27.32a2.06,2.06 0,0 1,-2.87 0L148,206.08l-26.57,27.32A2,2 0,0 1,120 234h0a2,2 0,0 1,-1.42 -0.59L92,206.63 65.42,233.41A2,2 0,0 1,62 232V36A14,14 0,0 1,76 22H220a14,14 0,0 1,14 14V232a2,2 0,0 1,-2 2ZM92,201.79a2,2 0,0 1,1.42 0.59L120,229.15l26.58,-27.33a2.06,2.06 0,0 1,2.87 0L176,229.13l26.57,-27.32a2.06,2.06 0,0 1,2.87 0L230,227.08V36a10,10 0,0 0,-10 -10H76A10,10 0,0 0,66 36V227.15l24.58,-24.76A2,2 0,0 1,92 201.79Z"/>
+    <path
+        android:fillColor="@color/neon_blu"
+        android:pathData="M163,165.79H84a6,6 0,0 1,0 -12h79a6,6 0,0 1,0 12Z"/>
+    <path
+        android:fillColor="@color/neon_blu"
+        android:pathData="M129.85,50H84a6,6 0,0 1,0 -12H199.49a6,6 0,0 1,0 12Z"/>
+    <path
+        android:fillColor="@color/neon_blu"
+        android:pathData="M199.49,78.95H84a6,6 0,0 1,0 -12H199.49a6,6 0,0 1,0 12Z"/>
+    <path
+        android:fillColor="@color/neon_blu"
+        android:pathData="M199.49,107.9H84a6,6 0,0 1,0 -12H199.49a6,6 0,0 1,0 12Z"/>
+    <path
+        android:fillColor="@color/neon_blu"
+        android:pathData="M163,136.84H84a6,6 0,0 1,0 -12h79a6,6 0,1 1,0 12Z"/>
+    <path
+        android:fillColor="@color/neon_orange"
+        android:pathData="M204.1,155.29h-9.22a3.4,3.4 0,0 1,0 -6.8H212a4.5,4.5 0,0 0,0 -9h-8v-3.4a4.5,4.5 0,0 0,-9 0v3.4h-0.11a12.4,12.4 0,0 0,0 24.8h9.22a3.4,3.4 0,0 1,0 6.81H187a4.5,4.5 0,0 0,0 9h8v3.4a4.5,4.5 0,0 0,9 0v-3.4h0.11a12.4,12.4 0,0 0,0 -24.81Z"/>
+</vector>

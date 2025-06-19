@@ -1,3 +1,7 @@
 argparse
 subprocess
 os
+zipfile
+shutil
+threading
+tkinter

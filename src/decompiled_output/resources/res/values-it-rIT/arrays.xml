@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="domande">
+        <item>Come calcolare la percentuale</item>
+        <item>Come attivare il display Calcolo Sconto</item>
+        <item>Come ritornare al display Calcolatrice da quello di Sconto</item>
+        <item>Come aggiungere una parentesi di chiusura</item>
+        <item>Come visualizzare le funzioni scientifiche</item>
+        <item>Come aggiungere un calcolo nella memoria</item>
+        <item>Come visualizzare la memoria</item>
+        <item>Come aggiungere un calcolo memorizzato nel display</item>
+        <item>Come condividere un calcolo memorizzato</item>
+        <item>Come eliminare un calcolo memorizzato</item>
+        <item>Come cambiare la notazione predefinita 1,000,000.00</item>
+        <item>CalcolatriceEasy IVA:\nCome usare il Display Calcolo IVA</item>
+        <item>CalcolatriceEasy IVA:\nCome usare il Display Scorporo IVA</item>
+        <item>CalcolatriceEasy IVA:\nCome usare la calcolatrice</item>
+        <item>CalcolatriceEasy IVA:\nCome impostare un\' aliquota IVA predefenita</item>
+    </array>
+    <array name="domandeMain">
+        <item>Come calcolare la percentuale</item>
+        <item>Come attivare il display Calcolo Sconto</item>
+        <item>Come ritornare al display Calcolatrice da quello di Sconto</item>
+        <item>Come aggiungere una parentesi di chiusura</item>
+        <item>Come visualizzare le funzioni scientifiche</item>
+        <item>Come visualizzare la memoria</item>
+    </array>
+    <array name="domandeiva">
+        <item>Come usare il Display Calcolo IVA</item>
+        <item>Come usare il Display Scorporo IVA</item>
+        <item>Come usare la calcolatrice</item>
+        <item>Come impostare un\' aliquota IVA predefenita</item>
+    </array>
+    <array name="scalaangolo">
+        <item>[deg (°)] Grado</item>
+        <item>[grad] Grado centesimale</item>
+        <item>[rad] Radiante</item>
+        <item>[ \' ] Minuto</item>
+        <item>[ \'\' ] Secondo</item>
+        <item>[mil] Millesimo di radiante</item>
+    </array>
+    <array name="scalaarea">
+        <item>[Km²] Chilometro quadrato</item>
+        <item>[hm²] Ettometro quadrato</item>
+        <item>[dam²] Decametro quadrato</item>
+        <item>[m²] Metro quadrato</item>
+        <item>[dm²] Decimetro quadrato</item>
+        <item>[cm²] Centimetro quadrato</item>
+        <item>[mm²] Millimetro quadrato</item>
+        <item>[in²] Pollice quadrato</item>
+        <item>[ft²] Piede quadrato</item>
+        <item>[yd²] Iarda quadrata</item>
+        <item>[mi²] Miglio quadrato</item>
+        <item>[a] Ara</item>
+        <item>[ha] Ettaro</item>
+        <item>[ac] Acro</item>
+    </array>
+    <array name="scalacarburante">
+        <item>[km/l] Chilometro/litro</item>
+        <item>[km/gal (us)] Chilometro/gallone (US)</item>
+        <item>[km/gal (uk)] Chilometro/gallone (UK)</item>
+        <item>[mi/l] Miglia/litro</item>
+        <item>[mi/gal (us)] Miglia/gallone (US)</item>
+        <item>[mi/gal (uk)] Miglia/gallone (UK)</item>
+        <item>[l/100km] Litro per 100 chilometri</item>
+        <item>[l/100mi] Litro per 100 miglia</item>
+        <item>[gal/100mi (us)] Gallone per 100 miglia (US)</item>
+        <item>[gal/100mi (uk)] Gallone per 100 miglia (UK)</item>
+    </array>
+    <array name="scaladati">
+        <item>[bit] Bit</item>
+        <item>[B] Byte</item>
+        <item>[kB] Kilobyte</item>
+        <item>[MB] Megabyte</item>
+        <item>[GB] Gigabyte</item>
+        <item>[TB] Terabyte</item>
+        <item>[KiB] Kibibyte</item>
+        <item>[MiB] Mebibyte</item>
+        <item>[GiB] Gibibyte</item>
+        <item>[TiB] Tebibyte</item>
+    </array>
+    <array name="scaladensita">
+        <item>[kg/dm³] Chilogrammo/decimetro cubo</item>
+        <item>[g/dm³] Grammo/decimetro cubo</item>
+        <item>[kg/cm³] Chilogrammo/centimetro cubo</item>
+        <item>[g/cm³] Grammo/centimetro cubo</item>
+        <item>[kg/m³] Chilogrammo/metro cubo</item>
+        <item>[g/m³] Grammo/metro cubo</item>
+        <item>[lb/in³] Libbra/pollice cubo</item>
+        <item>[lb/ft³] Libbra/piede cubo</item>
+        <item>[lb/yd³] Libbra/iarda cubica</item>
+        <item>[lb/gal (us)] Libbra/gallone (US)</item>
+        <item>[lb/gal (uk)] Libbra/gallone (UK)</item>
+        <item>[kg/l] Chilogrammo/litro</item>
+        <item>[kg/ml] Chilogrammo/millilitro</item>
+        <item>[g/l] Grammo/litro</item>
+        <item>[g/ml] Grammo/millilitro</item>
+    </array>
+    <array name="scalaenergia">
+        <item>[J] Joule</item>
+        <item>[kJ] Chilojoule</item>
+        <item>[MJ] Megajoule</item>
+        <item>[GJ] Gigajoule</item>
+        <item>[cal] Calorie</item>
+        <item>[Kcal] Chilocalorie</item>
+        <item>[BTU] BTU</item>
+        <item>[Ws] Watt⋅second</item>
+        <item>[Wh] Wattora</item>
+        <item>[kWh] Kilowattora</item>
+        <item>[MWh] Megawattora</item>
+        <item>[GWh] Gigawattora</item>
+        <item>[kgf⋅m] Chilogrammoforza-metro</item>
+        <item>[lbf⋅ft] Libbraforza-piede</item>
+    </array>
+    <array name="scalaforza">
+        <item>[kN] Chilonewton</item>
+        <item>[N] Newton</item>
+        <item>[dyn] Dina</item>
+        <item>[kgf] Chilogrammo-Forza</item>
+        <item>[gf] Grammo-Forza</item>
+        <item>[lbf] Libbra-Forza</item>
+        <item>[pdl] Poundal</item>
+    </array>
+    <array name="scalalunghezza">
+        <item>[Km] Chilometro</item>
+        <item>[hm] Ettometro</item>
+        <item>[dam] Decametro</item>
+        <item>[m] Metro</item>
+        <item>[dm] Decimetro</item>
+        <item>[cm] Centimetro</item>
+        <item>[mm] Millimetro</item>
+        <item>[in] Pollice</item>
+        <item>[ft] Piede</item>
+        <item>[yd] Iarda</item>
+        <item>[mi] Miglio</item>
+        <item>[NM] Miglio nautico</item>
+    </array>
+    <array name="scalamassa">
+        <item>[µg] Microgrammo</item>
+        <item>[mg] Milligrammo</item>
+        <item>[g] Grammo</item>
+        <item>[hg] Ettogrammo</item>
+        <item>[kg] Chilogrammo</item>
+        <item>[t] Tonnellata</item>
+        <item>[t (us)] Tonnellata (US)</item>
+        <item>[t (uk)] Tonnellata (UK)</item>
+        <item>[oz] Oncia</item>
+        <item>[oz t] Oncia troy</item>
+        <item>[lb] Libbra</item>
+        <item>[ct] Carato</item>
+        <item>[st] Pietra</item>
+    </array>
+    <array name="scalapotenza">
+        <item>[mW] Milliwatt</item>
+        <item>[W] Watt</item>
+        <item>[kW] Kilowatt</item>
+        <item>[MW] Megawatt</item>
+        <item>[GW] Gigawatt</item>
+        <item>[cal/s] Caloria/secondo</item>
+        <item>[cal/h] Caloria/ora</item>
+        <item>[Kcal/s] Chilocaloria/secondo</item>
+        <item>[Kcal/h] Chilocaloria/ora</item>
+        <item>[Mcal/h] Megacaloria/ora</item>
+        <item>[Gcal/h] Gigacaloria/ora</item>
+        <item>[BTU/s] BTU/secondo</item>
+        <item>[BTU/h] BTU/ora</item>
+        <item>[kgf⋅m/s] Chilogrammoforza per metro/secondo</item>
+        <item>[lbf⋅ft/s] Libbraforza per piede/secondo</item>
+        <item>[hp] Cavallo vapore meccanico</item>
+        <item>[cv] Cavallo vapore metrico</item>
+    </array>
+    <array name="scalapressione">
+        <item>[atm] Atmosfera</item>
+        <item>[Pa] Pascal</item>
+        <item>[hPa] Ettopascal</item>
+        <item>[kPa] Chilopascal</item>
+        <item>[MPa] Megapascal</item>
+        <item>[GPa] Gigapascal</item>
+        <item>[bar] Bar</item>
+        <item>[mbar] Millibar</item>
+        <item>[kgf/m²] Chilogrammoforza/metro quadrato</item>
+        <item>[kgf/cm²] Chilogrammoforza/centimetro quadrato</item>
+        <item>[kgf/mm²] Chilogrammoforza/millimetro quadrato</item>
+        <item>[N/m²] Newton/metro quadrato</item>
+        <item>[N/cm²] Newton/centimetro quadrato</item>
+        <item>[N/mm²] Newton/millimetro quadrato</item>
+        <item>[psi] Pound per square inch</item>
+        <item>[ksi] Kilopound per square inch</item>
+        <item>[Mpsi] Megapound per square inch</item>
+        <item>[psf] Pound per square foot</item>
+        <item>[Torr] Torr</item>
+        <item>[mmHg] Millimetri di mercurio</item>
+        <item>[inHg] Pollici di mercurio</item>
+        <item>[mmH2O] Millimetri di acqua</item>
+        <item>[inH2O] Pollici di acqua</item>
+    </array>
+    <array name="scalatemperatura">
+        <item>[°C] Celsius</item>
+        <item>[K] Kelvin</item>
+        <item>[°F] Fahrenheit</item>
+        <item>[°R] Rankine</item>
+    </array>
+    <array name="scalatempo">
+        <item>[ms] Millisecondo</item>
+        <item>[s] Secondo</item>
+        <item>[min] Minuto</item>
+        <item>[h] Ora</item>
+        <item>[d] Giorno</item>
+        <item>[w] Settimana</item>
+        <item>[m] Mese</item>
+        <item>[y] Anno</item>
+        <item>[L] Lustro</item>
+        <item>[Dec] Decennio</item>
+        <item>[C] Secolo</item>
+        <item>[Mil] Millennio</item>
+    </array>
+    <array name="scalavelocita">
+        <item>[m/s] Metro/secondo</item>
+        <item>[m/min] Metro/minuto</item>
+        <item>[m/h] Metro/ora</item>
+        <item>[km/s] Chilometro/secondo</item>
+        <item>[km/min] Chilometro/minuto</item>
+        <item>[km/h] Chilometro/ora</item>
+        <item>[in/s] Pollice/secondo</item>
+        <item>[in/min] Pollice/minuto</item>
+        <item>[in/h] Pollice/ora</item>
+        <item>[ft/s] Piede/secondo</item>
+        <item>[ft/min] Piede/minuto</item>
+        <item>[ft/h] Piede/ora</item>
+        <item>[mi/s] Miglia/secondo</item>
+        <item>[mi/min] Miglia/minuto</item>
+        <item>[mi/h] Miglia/ora</item>
+        <item>[Kn] Nodo</item>
+        <item>[M] Mach (velocità del suono nell\'aria a livello del mare)</item>
+    </array>
+    <array name="scalavolume">
+        <item>[Km³] Chilometro cubo</item>
+        <item>[hm³] Ettometro cubo</item>
+        <item>[dam³] Decametro cubo</item>
+        <item>[m³] Metro cubo</item>
+        <item>[dm³] Decimetro cubo</item>
+        <item>[cm³] Centimetro cubo</item>
+        <item>[mm³] Millimetro cubo</item>
+        <item>[in³] Pollice cubo</item>
+        <item>[ft³] Piede cubo</item>
+        <item>[yd³] Iarda cubica</item>
+        <item>[hl] Ettolitro</item>
+        <item>[l] Litro</item>
+        <item>[dl] Decilitro</item>
+        <item>[ml] Millilitro</item>
+        <item>[gal (us)] Gallone (US)</item>
+        <item>[gal (uk)] Gallone (UK)</item>
+        <item>[pt (us)] Pinta (US)</item>
+        <item>[pt (uk)] Pinta (UK)</item>
+        <item>[qt (us)] Quarto (US)</item>
+        <item>[qt (uk)] Quarto (UK)</item>
+        <item>[bbl] Barile</item>
+        <item>[fl.oz (us)] Oncia liquida (US)</item>
+        <item>[fl.oz (uk)] Oncia liquida (UK)</item>
+        <item>[tblsp] Cucchiaino (15 ml)</item>
+        <item>[tsp] Cucchiaio (5 ml)</item>
+        <item>[cup (us)] Tazza (US)</item>
+        <item>[cup (uk)] Tazza (UK)</item>
+    </array>
+    <array name="tipoquantita">
+        <item>[Qt.] Quantità generica</item>
+        <item>[g] Grammo</item>
+        <item>[kg] Chilogrammo</item>
+        <item>[oz] Oncia</item>
+        <item>[lb] libbra</item>
+        <item>[l] Litro</item>
+        <item>[gal] Gallone</item>
+        <item>[pt] Pinta</item>
+        <item>[qt] Quarto</item>
+        <item>[fl.oz] Oncia fluida</item>
+        <item>[Pkt] Pacchetto</item>
+        <item>[Btl] Bottiglia</item>
+    </array>
+</resources>

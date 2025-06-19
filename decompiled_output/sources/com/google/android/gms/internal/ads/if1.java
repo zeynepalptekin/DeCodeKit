@@ -11,7 +11,7 @@ final class if1 implements fc1 {
     }
 
     /*  JADX ERROR: Type inference failed
-        jadx.core.utils.exceptions.JadxOverflowException: Type update terminated with stack overflow, arg: (r0v60 ?? I:??[int, boolean, short, byte, char]), method size: 4401
+        jadx.core.utils.exceptions.JadxOverflowException: Type update terminated with stack overflow, arg: (r10v27 ?? I:??[int, boolean]), method size: 4401
         	at jadx.core.utils.ErrorsCounter.addError(ErrorsCounter.java:59)
         	at jadx.core.utils.ErrorsCounter.error(ErrorsCounter.java:31)
         	at jadx.core.dex.attributes.nodes.NotificationAttrNode.addError(NotificationAttrNode.java:19)
