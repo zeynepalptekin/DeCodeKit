@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="domande">
+        <item>Comment calculer le pourcentage</item>
+        <item>Comment faire fonctionner l\' écran du rabais</item>
+        <item>Comment revenir à l\' écran de la calculatrice à partir du rabais</item>
+        <item>Comment ajouter une parenthèse fermante</item>
+        <item>Comment afficher les fonctions scientifiques</item>
+        <item>Comment ajouter un calcul dans l\' historique</item>
+        <item>Comment afficher l\' historique</item>
+        <item>Comment ajouter un calcul enregistré dans l\' écran</item>
+        <item>Comment partager un calcul enregistré</item>
+        <item>Comment supprimer un calcul enregistré</item>
+        <item>Comment changer la notation prédéfinie 1,000,00.00</item>
+        <item>CalculatriceSimple TVA:\nComment utiliser l\' écran Ajouter TVA</item>
+        <item>CalculatriceSimple TVA:\nComment utiliser l\' écran Soustraire TVA</item>
+        <item>CalculatriceSimple TVA:\nComment utiliser la Calculatrice</item>
+        <item>CalculatriceSimple TVA:\nComment configurer le TVA préféré</item>
+    </array>
+    <array name="domandeMain">
+        <item>Comment calculer le pourcentage</item>
+        <item>Comment faire fonctionner l\' écran du rabais</item>
+        <item>Comment revenir à l\' écran de la calculatrice à partir du rabais</item>
+        <item>Comment ajouter une parenthèse fermante</item>
+        <item>Comment afficher les fonctions scientifiques</item>
+        <item>Comment afficher l\' historique</item>
+    </array>
+    <array name="domandeiva">
+        <item>Comment utiliser l\' écran Ajouter TVA</item>
+        <item>Comment utiliser l\' écran Soustraire TVA</item>
+        <item>Comment utiliser la Calculatrice</item>
+        <item>Comment configurer le TVA préféré</item>
+    </array>
+    <array name="scalaangolo">
+        <item>[deg (°)] Degré</item>
+        <item>[grad] Degré centésimal</item>
+        <item>[rad] Radian</item>
+        <item>[ \' ] Minute</item>
+        <item>[ \'\' ] Seconde</item>
+        <item>[mil] Milliradian</item>
+    </array>
+    <array name="scalaarea">
+        <item>[Km²] Kilomètre carré</item>
+        <item>[hm²] Hectomètre carré</item>
+        <item>[dam²] Décamètre carré</item>
+        <item>[m²] Mètre carré</item>
+        <item>[dm²] Décimètre carré</item>
+        <item>[cm²] Centimètre carré</item>
+        <item>[mm²] Millimètre carré</item>
+        <item>[in²] Pouce carré</item>
+        <item>[ft²] Pied carré</item>
+        <item>[yd²] Verge carré</item>
+        <item>[mi²] Mile carré</item>
+        <item>[a] Are</item>
+        <item>[ha] Hectare</item>
+        <item>[ac] Acre</item>
+    </array>
+    <array name="scalacarburante">
+        <item>[km/l] Kilomètre/litre</item>
+        <item>[km/gal (us)] Kilomètre/gallon (US)</item>
+        <item>[km/gal (uk)] Kilomètre/gallon (UK)</item>
+        <item>[mi/l] Mile/litre</item>
+        <item>[mi/gal (us)] Mile/gallon (US)</item>
+        <item>[mi/gal (uk)] Mile/gallon (UK)</item>
+        <item>[l/100km] Litre par 100 Kilomètres</item>
+        <item>[l/100mi] Litre par 100 miles</item>
+        <item>[gal/100mi (us)] Gallon par 100 miles (US)</item>
+        <item>[gal/100mi (uk)] Gallon par 100 miles (UK)</item>
+    </array>
+    <array name="scaladati">
+        <item>[bit] Bit</item>
+        <item>[B] Byte</item>
+        <item>[kB] Kilobyte</item>
+        <item>[MB] Megabyte</item>
+        <item>[GB] Gigabyte</item>
+        <item>[TB] Terabyte</item>
+        <item>[KiB] Kibibyte</item>
+        <item>[MiB] Mebibyte</item>
+        <item>[GiB] Gibibyte</item>
+        <item>[TiB] Tebibyte</item>
+    </array>
+    <array name="scaladensita">
+        <item>[kg/dm³] Kilogramme/décimètre cube</item>
+        <item>[g/dm³] Gramme/décimètre cube</item>
+        <item>[kg/cm³] Kilogramme/centimètre cube</item>
+        <item>[g/cm³] Gramme/centimètre cube</item>
+        <item>[kg/m³] Kilogramme/mètre cube</item>
+        <item>[g/m³] Gramme/mètre cube</item>
+        <item>[lb/in³] Livre/pouce cube</item>
+        <item>[lb/ft³] Livre/pied cube</item>
+        <item>[lb/yd³] Livre/verge cube</item>
+        <item>[lb/gal (us)] Livre/gallon (US)</item>
+        <item>[lb/gal (uk)] Livre/gallon (UK)</item>
+        <item>[kg/l] Kilogramme/litre</item>
+        <item>[kg/ml] Kilogramme/mililitre</item>
+        <item>[g/l] Gramme/litre</item>
+        <item>[g/ml] Gramme/mililitre</item>
+    </array>
+    <array name="scalaenergia">
+        <item>[J] Joule</item>
+        <item>[kJ] Kilojoule</item>
+        <item>[MJ] Mégajoule</item>
+        <item>[GJ] Gigajoule</item>
+        <item>[cal] Calorie</item>
+        <item>[Kcal] Kilocalorie</item>
+        <item>[BTU] BTU</item>
+        <item>[Ws] Watt⋅seconde</item>
+        <item>[Wh] Wattheure</item>
+        <item>[kWh] Kilowattheure</item>
+        <item>[MWh] Mégawattheure</item>
+        <item>[GWh] Gigawattheure</item>
+        <item>[kgf⋅m] Kilogramme force par mètre</item>
+        <item>[lbf⋅ft] pied-livre force</item>
+    </array>
+    <array name="scalaforza">
+        <item>[kN] Kilonewton</item>
+        <item>[N] Newton</item>
+        <item>[dyn] Dyne</item>
+        <item>[kgf] Kilogramme-Force</item>
+        <item>[gf] Gramme-Force</item>
+        <item>[lbf] Livre-Force</item>
+        <item>[pdl] Poundal</item>
+    </array>
+    <array name="scalalunghezza">
+        <item>[Km] Kilomètre</item>
+        <item>[hm] Hectomètre</item>
+        <item>[dam] Décamètre</item>
+        <item>[m] Mètre</item>
+        <item>[dm] Décimètre</item>
+        <item>[cm] Centimètre</item>
+        <item>[mm] Millimètre</item>
+        <item>[in] Pouce</item>
+        <item>[ft] Pied</item>
+        <item>[yd] Verge</item>
+        <item>[mi] Mile</item>
+        <item>[NM] Mile marin</item>
+    </array>
+    <array name="scalamassa">
+        <item>[µg] Microgramme</item>
+        <item>[mg] Milligramme</item>
+        <item>[g] Gramme</item>
+        <item>[hg] Hectogramme</item>
+        <item>[kg] Kilogramme</item>
+        <item>[t] Tonne</item>
+        <item>[t (us)] Tonne (US)</item>
+        <item>[t (uk)] Tonne (UK)</item>
+        <item>[oz] Once</item>
+        <item>[oz t] Once troy</item>
+        <item>[lb] Livre</item>
+        <item>[ct] Carat</item>
+        <item>[st] Pierre</item>
+    </array>
+    <array name="scalapotenza">
+        <item>[mW] Milliwatts</item>
+        <item>[W] Watts</item>
+        <item>[kW] Kilowatts</item>
+        <item>[MW] Mégawatts</item>
+        <item>[GW] Gigawatts</item>
+        <item>[cal/s] Calorie/seconde</item>
+        <item>[cal/h] Calorie/heure</item>
+        <item>[Kcal/s] Kilocalorie/seconde</item>
+        <item>[Kcal/h] Kilocalorie/heure</item>
+        <item>[Mcal/h] Mégacalorie/heure</item>
+        <item>[Gcal/h] Gigacalorie/heure</item>
+        <item>[BTU/s] BTU/seconde</item>
+        <item>[BTU/h] BTU/heure</item>
+        <item>[kgf⋅m/s] Kilogramme force par mètre/seconde</item>
+        <item>[lbf⋅ft/s] Livre force par pied/seconde</item>
+        <item>[hp] cheval-vapeur mècanique</item>
+        <item>[cv] cheval-vapeur mètrique</item>
+    </array>
+    <array name="scalapressione">
+        <item>[atm] Atmosphère</item>
+        <item>[Pa] Pascal</item>
+        <item>[hPa] Hectopascal</item>
+        <item>[kPa] Kilopascal</item>
+        <item>[MPa] Mègapascal</item>
+        <item>[GPa] Gigapascal</item>
+        <item>[bar] Bar</item>
+        <item>[mbar] Milibar</item>
+        <item>[kgf/m²] Kilogramme par mètre carré</item>
+        <item>[kgf/cm²] Kilogramme par centimètre carré</item>
+        <item>[kgf/mm²] Kilogramme par millimètre carré</item>
+        <item>[N/m²] Newton par mètre carré</item>
+        <item>[N/cm²] Newton par centimètre carré</item>
+        <item>[N/mm²] Newton par millimètre carré</item>
+        <item>[psi] Livre par pouce carré</item>
+        <item>[ksi] Kilolivre par pouce carré</item>
+        <item>[Mpsi] Mègalivre par pouce carré</item>
+        <item>[psf] Livre par pied carré</item>
+        <item>[Torr] Torr</item>
+        <item>[mmHg] millimètre de mercure</item>
+        <item>[inHg] Pounce de mercure</item>
+        <item>[mmH2O] Millimetre d\'eau</item>
+        <item>[inH2O] pouce d\'eau</item>
+    </array>
+    <array name="scalatemperatura">
+        <item>[°C] Celsius</item>
+        <item>[K] Kelvin</item>
+        <item>[°F] Fahrenheit</item>
+        <item>[°R] Rankine</item>
+    </array>
+    <array name="scalatempo">
+        <item>[ms] Milliseconde</item>
+        <item>[s] Seconde</item>
+        <item>[min] Minute</item>
+        <item>[h] Heure</item>
+        <item>[d] Jour</item>
+        <item>[w] Semaine</item>
+        <item>[m] Mois</item>
+        <item>[y] Année</item>
+        <item>[L] Lustre</item>
+        <item>[Dec] Décennie</item>
+        <item>[C] Siècle</item>
+        <item>[Mil] Millénaire</item>
+    </array>
+    <array name="scalavelocita">
+        <item>[m/s] Mètre/seconde</item>
+        <item>[m/min] Mètre/minute</item>
+        <item>[m/h] Mètre/heure</item>
+        <item>[km/s] Kilomètre/seconde</item>
+        <item>[km/min] Kilomètre/minute</item>
+        <item>[km/h] Kilomètre/heure</item>
+        <item>[in/s] Pounce/seconde</item>
+        <item>[in/min] Pounce/minute</item>
+        <item>[in/h] Pounce/heure</item>
+        <item>[ft/s] Pied/seconde</item>
+        <item>[ft/min] Pied/minute</item>
+        <item>[ft/h] Pied/heure</item>
+        <item>[mi/s] Mile/seconde</item>
+        <item>[mi/min] Mile/minute</item>
+        <item>[mi/h] Mile/heure</item>
+        <item>[Kn] Noeud</item>
+        <item>[M] Mach (vitesse du son dans l\'air au niveau de la mer)</item>
+    </array>
+    <array name="scalavolume">
+        <item>[Km³] Kilomètre cube</item>
+        <item>[hm³] Hectomètre cube</item>
+        <item>[dam³] Décamètre cube</item>
+        <item>[m³] Mètre cube</item>
+        <item>[dm³] Décimètre cube</item>
+        <item>[cm³] Centimètre cube</item>
+        <item>[mm³] Millimètre cube</item>
+        <item>[in³] Pouce cube</item>
+        <item>[ft³] Pied cube</item>
+        <item>[yd³] Verge cube</item>
+        <item>[hl] Hectolitre</item>
+        <item>[l] Litre</item>
+        <item>[dl] Décilitre</item>
+        <item>[ml] Mililitre</item>
+        <item>[gal (us)] Gallon (US)</item>
+        <item>[gal (uk)] Gallon (UK)</item>
+        <item>[pt (us)] Pinte (US)</item>
+        <item>[pt (uk)] Pinte (UK)</item>
+        <item>[qt (us)] Quart (US)</item>
+        <item>[qt (uk)] Quart (UK)</item>
+        <item>[bbl] Baril</item>
+        <item>[fl.oz (us)] Once liquide(US)</item>
+        <item>[fl.oz (uk)] Once liquide(UK)</item>
+        <item>[tblsp] Cuillère à soupe (15 ml)</item>
+        <item>[tsp] Cuillère à café (5 ml)</item>
+        <item>[cup (us)] Tasse (US)</item>
+        <item>[cup (uk)] Tasse (UK)</item>
+    </array>
+    <array name="tipoquantita">
+        <item>[Qt.] Quantité générique</item>
+        <item>[g] Gramme</item>
+        <item>[kg] Kilogramme</item>
+        <item>[oz] Once</item>
+        <item>[lb] livre</item>
+        <item>[l] Litre</item>
+        <item>[gal] Gallon</item>
+        <item>[pt] Pinte</item>
+        <item>[qt] Quart</item>
+        <item>[fl.oz] Once liquide</item>
+        <item>[Pkt] Paquet</item>
+        <item>[Btl] Bouteille</item>
+    </array>
+</resources>
