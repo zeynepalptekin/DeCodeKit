@@ -28,7 +28,13 @@
 ---
 
 ## Pictures / Fotoğraflar
+![Image](https://github.com/user-attachments/assets/ecdc26b8-cc9a-4a22-93c4-d3b300ebebd0)
 
+![Image](https://github.com/user-attachments/assets/6ee1972d-ab9b-4207-adfb-656e92bbcd39)
+
+![Image](https://github.com/user-attachments/assets/7d70da4d-3af0-4501-89a8-a193607f3497)
+
+![Image](https://github.com/user-attachments/assets/ae202c91-acc4-43ac-9917-b19344eb8e9d)
 
 ## Team / Ekip
 
